@@ -1,4 +1,4 @@
-# Cursor CLI Docker Container
+# Cursor IDE Docker Container
 
 This repository contains a Dockerfile for running the Cursor IDE in a containerized environment. The container provides a secure and isolated way to run the Cursor tunnel service.
 
